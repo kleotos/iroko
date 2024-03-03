@@ -204,11 +204,11 @@ h5 {
   max-width: 500px;
 }
 
-.container section > div > div:nth-child(2) .date h2 {
+.container section > div  .date h2 {
   color: #2fa1f4;
 }
 
-.container section > div > div:nth-child(2) .date h3 {
+.container section > div  .date h3 {
   margin: 7px 0;
   font-weight: 400;
 }
